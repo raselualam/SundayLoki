@@ -9,4 +9,7 @@ public class AccessModifier {
 			String address = "Heritage Tower"; 		// default - classes in same package can access
 
 	private int age = 25;							// private - Only same class can access
+	
+	//git test
+	int a = 5;
 }
