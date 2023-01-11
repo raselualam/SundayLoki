@@ -11,5 +11,5 @@ public class AccessModifier {
 	private int age = 25;							// private - Only same class can access
 	
 	//git test
-	int a = 5;
+	int a = 10;
 }
